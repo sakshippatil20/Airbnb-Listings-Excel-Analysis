@@ -53,13 +53,6 @@ A sample dataset is included for demonstration purposes.
 
 ---
 
-## 📷 Dashboard Preview
-(Add your screenshot inside the images folder)
-
-![Dashboard Preview](images/dashboard_preview.png)
-
----
-
 ## 📈 Key Insights
 - Entire homes generally have higher average pricing.
 - Locations with higher review counts tend to show stronger occupancy potential.
